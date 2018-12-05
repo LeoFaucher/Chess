@@ -1,0 +1,24 @@
+#chessboardiv {
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 700px;
+}
+.whitepiece {
+    color: white;
+    font-size: 50px;
+}
+.blackpiece {
+    color: grey;
+    font-size: 50px;
+}
+.whitecase {
+    background-color: white;
+    width: 87.5px;
+    height: 87.5px;
+}
+.blackcase {
+    background-color: black;
+    width: 87.5px;
+    height: 87.5px;
+}
